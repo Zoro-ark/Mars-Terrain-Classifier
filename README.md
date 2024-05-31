@@ -15,4 +15,5 @@ Tge Dataset included sattelite images of mars terrian, which were to be classifi
 | 6 | Swiss Cheese |
 | 7 | Spider |
 
-# Dataset [https://www.kaggle.com/competitions/ai-of-god-v20/data]([https://pages.github.com/](https://www.kaggle.com/competitions/ai-of-god-v20/data))
+# Dataset 
+[https://www.kaggle.com/competitions/ai-of-god-v20/data]([https://pages.github.com/](https://www.kaggle.com/competitions/ai-of-god-v20/data))
