@@ -2,7 +2,7 @@
 A machine learning model to classify Mars Terrain Images from HiRiSE data.
 
 # Problem Statement
-Tge Dataset included sattelite images of mars terrian, which were to be classified into 8 classes.
+The Dataset included satellite images of mars terrian, which were to be classified into 8 classes.
 
 | Class | Label |
 | ------------- | ------------- |
