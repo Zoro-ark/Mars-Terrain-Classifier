@@ -16,4 +16,4 @@ Tge Dataset included sattelite images of mars terrian, which were to be classifi
 | 7 | Spider |
 
 # Dataset 
-[https://www.kaggle.com/competitions/ai-of-god-v20/data]([https://pages.github.com/](https://www.kaggle.com/competitions/ai-of-god-v20/data))
+[https://www.kaggle.com/competitions/ai-of-god-v20/data]((https://www.kaggle.com/competitions/ai-of-god-v20/data))
